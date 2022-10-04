@@ -1,4 +1,4 @@
-# Apollo Server Example
+# GraphQL Server Example
 
 Simple API to add and delete persons with GraphQL
 
