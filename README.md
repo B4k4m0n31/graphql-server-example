@@ -15,9 +15,9 @@ Simple API to add and delete persons with GraphQL
 ## Operations with GraphQL
 
 * Query
-  * getAllPeople &nbsp; -> Get all people from the dataset
-  * getPerson&nbsp; -> Get a single person from the dataset with a specified Id
+  * getAllPeople -> Get all people from the dataset
+  * getPerson -> Get a single person from the dataset with a specified Id
   
 * Mutation
-  * addPerson &nbsp; -> Adds a new person to the dataset
-  * removePerson &nbsp; -> Removes a person from the dataset with a specified Id
+  * addPerson -> Adds a new person to the dataset
+  * removePerson -> Removes a person from the dataset with a specified Id
